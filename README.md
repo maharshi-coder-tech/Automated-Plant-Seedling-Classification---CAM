@@ -1,4 +1,4 @@
-# 🌱 [Automated Plant Seedling Classification with Class Activation Mapping for Effective Weed Management](https://rb.gy/u7u1po)
+# 🌱 Automated Plant Seedling Classification with Class Activation Mapping for Effective Weed Management  
 
 ## 🔥 Explore the Project  
 [![Click Here](https://img.shields.io/badge/👉-Click_Here-brightgreen)](https://rb.gy/u7u1po)  
@@ -38,6 +38,14 @@ The model was trained using a **MobileNetV2** architecture with **transfer learn
 
 ---
 
+## ✍️ **Authors**  
+📌 **Er. Maharshi Battina**  
+📌 **Dr. Mukhtiar Singh**  
+📌 **Er. Paarth Arora**  
+📌 **Er. Rishi Kasrija**  
+
+---
+
 ## 🛠️ **Environment Setup**  
 The following dependencies were used for the project:  
 
@@ -48,4 +56,4 @@ The following dependencies were used for the project:
 
 ---
 
-This version ensures **better readability, clear sections, and improved styling** with icons and proper spacing. Let me know if you need any tweaks! 🚀🔥  
+
