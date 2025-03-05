@@ -1,4 +1,4 @@
-# 🌱 Automated Plant Seedling Classification with Class Activation Mapping for Effective Weed Management  
+# 🌱 [Automated Plant Seedling Classification with Class Activation Mapping for Effective Weed Management](https://rb.gy/u7u1po)
 
 ## 🔥 Explore the Project  
 [![Click Here](https://img.shields.io/badge/👉-Click_Here-brightgreen)](https://rb.gy/u7u1po)  
