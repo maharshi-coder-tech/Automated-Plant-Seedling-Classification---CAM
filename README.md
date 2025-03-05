@@ -1,8 +1,8 @@
 # Automated Plant Seedling Classification with Class Activation Mapping for Effective Weed Management
 ----------------------------------------------------------------------------------------------------
-https://rb.gy/u7u1po
+**https://rb.gy/u7u1po**
 
-# Our results indicate that the MobileNetV2 based model is highly suitable for realtime applications in precision agriculture, where accurate and early identification of crop and weed seedlings is crucial for effective weed management and optimization of crop yield. (H1)
+*Our results indicate that the MobileNetV2 based model is highly suitable for realtime applications in precision agriculture, where accurate and early identification of crop and weed seedlings is crucial for effective weed management and optimization of crop yield.*
 
 The model was trained using a MobileNetV2 architecture with transfer learning. The training process was carried out for 10 epochs with early stopping to prevent overfitting. The accuracy and loss metrics for both training and validation sets are summarized below:
 Training Accuracy: 97.76%. Validation Accuracy: 97.49%
