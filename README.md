@@ -1,4 +1,4 @@
-<div style="background-color: #f5f5f5; padding: 10px; border-radius: 10px;">
+<div style="background: url('https://your-image-link.com') no-repeat center center; background-size: cover; padding: 20px; border-radius: 10px;">
   
 # 🌱 [Automated Plant Seedling Classification with Class Activation Mapping for Effective Weed Management](https://rb.gy/u7u1po)
 
