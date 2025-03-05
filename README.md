@@ -1,4 +1,5 @@
 # Automated Plant Seedling Classification with Class Activation Mapping for Effective Weed Management
+----------------------------------------------------------------------------------------------------
 https://rb.gy/u7u1po
 
 Our results indicate that the MobileNetV2 based model is highly suitable for realtime applications in precision agriculture, where accurate and early identification of crop and weed seedlings is crucial for effective weed management and optimization of crop yield.
