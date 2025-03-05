@@ -34,3 +34,6 @@ The following dependencies were used for the project:
 - **OpenCV** 3.4.1  
 - **TensorFlow** 1.8.0 GPU  
 - **Keras** 2.1.6  
+
+## 🔥 Explore the Project  
+[![Click Here](https://img.shields.io/badge/👉-Click_Here-brightgreen)](https://rb.gy/u7u1po)  
