@@ -11,10 +11,12 @@ Test Loss: 0.13207. Test Accuracy: 96.93%
 @Evaluation Metrics of Proposed Model - 
 ![image](https://github.com/user-attachments/assets/d8162f81-4682-40de-a9b1-ff1aa631f384)
 
+Results -
+![image](https://github.com/user-attachments/assets/04c5f33b-0086-4a41-9d14-b7a55b96f63d)
 
 Environment
 Python 3.6
 OpenCV 3.4.1
 Tensorflow 1.8.0 GPU
 Keras 2.1.6
-![image](https://github.com/user-attachments/assets/8a1848ef-fb23-46fc-b36c-d0bec0097b1b)
+
