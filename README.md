@@ -1,8 +1,6 @@
 ## 🔥 Explore the Project  
 [![Automated_Plant_Seedling_Classification](https://img.shields.io/badge/👉-Automated_Plant_Seedling_Classification-brightgreen)](https://rb.gy/u7u1po)  
 
-[![Banner](https://img.shields.io/badge/🌱-Automated_Plant_Seedling_Classification-green?style=for-the-badge)](https://rb.gy/u7u1po)
-
 # 🌱 [Automated Plant Seedling Classification with Class Activation Mapping for Effective Weed Management](https://rb.gy/u7u1po)
  
 
