@@ -1,5 +1,5 @@
-<div style="background: url('https://your-image-link.com') no-repeat center center; background-size: cover; padding: 20px; border-radius: 10px;">
-  
+[![Banner](https://img.shields.io/badge/🌱-Automated_Plant_Seedling_Classification-green?style=for-the-badge)](https://rb.gy/u7u1po)
+
 # 🌱 [Automated Plant Seedling Classification with Class Activation Mapping for Effective Weed Management](https://rb.gy/u7u1po)
 
 ## 🔥 Explore the Project  
@@ -57,5 +57,5 @@ The following dependencies were used for the project:
 📌 **Keras** 2.1.6  
 
 ---
-</div>
+
 
