@@ -1,5 +1,8 @@
 # Automated Plant Seedling Classification with Class Activation Mapping for Effective Weed Management
 
+## 🔥 Explore the Project  
+[![Click Here](https://img.shields.io/badge/👉-Click_Here-brightgreen)](https://rb.gy/u7u1po)  
+
 ## Overview
 Our results indicate that the **MobileNetV2** based model is highly suitable for real-time applications in precision agriculture, where **accurate and early identification of crop and weed seedlings** is crucial for effective weed management and optimization of crop yield.
 
@@ -35,5 +38,4 @@ The following dependencies were used for the project:
 - **TensorFlow** 1.8.0 GPU  
 - **Keras** 2.1.6  
 
-## 🔥 Explore the Project  
-[![Click Here](https://img.shields.io/badge/👉-Click_Here-brightgreen)](https://rb.gy/u7u1po)  
+
