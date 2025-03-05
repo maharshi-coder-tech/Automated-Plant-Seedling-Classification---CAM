@@ -1,4 +1,4 @@
-# Automated-Plant-Seedling-Classification---CAM
+# Automated Plant Seedling Classification with Class Activation Mapping for Effective Weed Management
 
 Environment
 Python 3.6
