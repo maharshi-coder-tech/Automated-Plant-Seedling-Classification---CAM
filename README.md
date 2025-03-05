@@ -17,10 +17,15 @@ The model was trained using a **MobileNetV2** architecture with **transfer learn
 - **Test Accuracy:** 96.93%  
 
 ## **Evaluation Metrics of Proposed Model**
-![Evaluation Metrics](path_to_your_image)
+![image](https://github.com/user-attachments/assets/606430df-723e-49f3-8317-e6066b536def)
+
 
 ## **Results**
-![Results](path_to_your_image)
+![image](https://github.com/user-attachments/assets/721a5005-9047-4ce4-be94-f11ff61c7e41)
+- **With Heatmap**
+![image](https://github.com/user-attachments/assets/766ab95a-10ac-4dd5-8593-fa0838decf5d)
+
+
 
 ## **Environment Setup**
 The following dependencies were used for the project:
